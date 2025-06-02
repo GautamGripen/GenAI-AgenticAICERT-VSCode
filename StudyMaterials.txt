@@ -1,0 +1,31 @@
+Generative_AI_Interview_Questions - https://docs.google.com/document/d/1N-exdrM8qtB-tnwVIHwt1G1JeEv6cNpg/edit?usp=drive_link&ouid=115260868489275907693&rtpof=true&sd=true  
+
+ 
+
+Transformer practice - https://colab.research.google.com/drive/1UQ_j4IZ4HIKOVx0NTCPrEB5B2NM33ic8?usp=drive_link  
+
+ 
+
+Tokenization - https://docs.google.com/presentation/d/1DvSS8SwG2I_MSJaqbgDGbnUi7U3cFu_M/edit?usp=drive_link&ouid=115260868489275907693&rtpof=true&sd=true  
+
+ 
+
+Transformers Mistral AI Research - https://docs.google.com/presentation/d/1D7TVuDaFolDZN-I_ZTMLUabDsEpg3JU8/edit?usp=drive_link&ouid=115260868489275907693&rtpof=true&sd=true 
+
+--> Best Research paper sites -  https://arxiv.org/ , check on Science Direct, Google scholar
+
+--> hugging face token - hf_RHPPbavrInyzKMZntgqkNLFnInuZEwMYAIen 
+
+--> Open AI Platform - https://platform.openai.com/docs/overview
+--> For Open AI API 
+
+--> Langchain Documentation - https://python.langchain.com/docs/introduction/ and with RAG -https://python.langchain.com/docs/tutorials/rag/
+
+--> Langsmith API Key - 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 (this is library of Langchain which tells us about the cost)
+
+--> Google Gemini LLM - https://aistudio.google.com/prompts/new_chat 
+
+--> Gemini API Key - Project -> gemini-api - 
+AIzaSyCC72ubtlW65nH7zTPUGXsP1krtdEPm8z0
+
+--> We use gradio framework by google in order to build UI for POCs
